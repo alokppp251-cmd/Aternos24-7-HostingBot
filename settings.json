@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "McAlok-XBcc.aternos.me",
+    "port": 32259,
+    "version": 26.3"",
     "try-creative": false
   },
   "position": {
